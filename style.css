@@ -1,18 +1,1 @@
-* {
-  background-color: burlywood;
-  color: blueviolet;
-  margin: 0;
-  border: 0;
-  padding: 0;
-}
-body {
-  display: flex;
-  flex-direction: row;
-}
-.display {
-  width: fit-content;
-  text-align: center;
-  margin: 0 auto;
-  font-size: 1.5vw;
-  word-break: break-all;
-}
+*{background-color:#deb887;color:#8a2be2;margin:0;border:0;padding:0}body{display:flex;flex-direction:row}.display{width:fit-content;text-align:center;margin:0 auto;font-size:1.5vw;word-break:break-all}
